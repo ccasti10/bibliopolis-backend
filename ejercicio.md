@@ -69,11 +69,11 @@ Actividades:
 ✅ Obtener un usuario según su id, en caso de que el usuario no exista devolver el código 404.
 ✅ Obtener todos los usuarios (Excluir la password en la lista )
 ✅ Eliminar un usuarios según su id
-Haz un commit con el mensaje “Módulo de usuarios” y luego haz un push al repositorio de github usando la rama “feature_usuarios”.
+✅Haz un commit con el mensaje “Módulo de usuarios” y luego haz un push al repositorio de github usando la rama “feature_usuarios”.
 
-Haz un pull request hacia la rama master en github
-En el repositorio local cambiarse a la rama ‘main’
-Sincronizar los cambios con el repositorio remoto
+✅Haz un pull request hacia la rama master en github
+✅En el repositorio local cambiarse a la rama ‘main’
+✅Sincronizar los cambios con el repositorio remoto
 Crear una nueva rama llamada “feature_libros”
 Crea el controlador para Libros que permita realizar las siguientes acciones
 crear un nuevo libro
